@@ -108,3 +108,13 @@ radare2 – binary patching
 
 ## Interessant
 https://developers.mews.com/cracking-uncrackable-android-apps-level-1/
+
+## Download
+dex2jar:
+https://github.com/pxb1988/dex2jar/releases
+
+jd-gui:
+http://java-decompiler.github.io/
+
+apktool:
+https://bitbucket.org/iBotPeaches/apktool/downloads/
